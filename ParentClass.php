@@ -1,6 +1,6 @@
 <?php
 
-	class ParentClass {
+  class ParentClass {
     private $n;
     private $a;
 
@@ -27,4 +27,4 @@
 
       return $theBand . $recc . "<br>";
     }
-	}
+  }
