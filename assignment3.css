@@ -1,1 +1,23 @@
-/*styles for assignment 3*/
+body {
+	background: rgb(100, 147, 113);
+  font-family: 'Roboto', sans-serif;
+  padding: 0 50px 50px 50px;
+}
+
+h1, h3{
+	color: white;
+  margin-bottom: 10px;
+}
+
+hr{
+  margin: 50px 0 50px 0;
+}
+
+.titles{
+  color: white;
+  text-align: center;
+}
+
+#smidley:hover{
+  color: red;
+}
