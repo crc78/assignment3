@@ -2,8 +2,8 @@
 
   require "ParentClass.php";
   
-	class ChildClass extends ParentClass {
-		public $name;
+  class ChildClass extends ParentClass {
+    public $name;
     public $album;
     public $genre;
 
@@ -31,4 +31,4 @@
     public function __unset($property){
       unset($this->$property);
     }
-	}
+  }
