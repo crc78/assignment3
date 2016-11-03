@@ -10,13 +10,13 @@
 
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Assignment 3</title>
+  <head>
+    <meta charset="UTF-8">
+    <title>Assignment 3</title>
 
-  <link rel="stylesheet" href="assignment3.css">
-  <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-</head>
+    <link rel="stylesheet" href="assignment3.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  </head>
   <body>
     <p class="titles">Here are some of my favorite bands:</p>
 
