@@ -1,11 +1,11 @@
 body {
-	background: rgb(100, 147, 113);
+  background: rgb(100, 147, 113);
   font-family: 'Roboto', sans-serif;
   padding: 0 50px 50px 50px;
 }
 
 h1, h3{
-	color: white;
+  color: white;
   margin-bottom: 10px;
 }
 
